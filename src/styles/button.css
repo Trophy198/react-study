@@ -1,0 +1,13 @@
+.buttonContainer {
+    background-color: #1F9E49;
+    border: none;
+    color: white;
+    padding: 8px 46px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.buttonContainer:disabled {
+    background-color: #C2C4C6;
+    cursor: auto;
+}
